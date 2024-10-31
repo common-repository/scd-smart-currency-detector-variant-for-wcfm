@@ -1,0 +1,404 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SCM - Smart Currency Manager - Premium Variant for WCFM\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-02 15:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.3\n"
+"X-Domain: scd_wcfm_marketplace"
+
+#: scd_free_install.php:291
+msgid ""
+"  Note that!!! it is mandatory to have the SCM Free plugin activated before "
+"using this variant of the SCM plugin. "
+msgstr ""
+
+#: scd_free_install.php:290
+msgid " and install it manually."
+msgstr ""
+
+#: scd_free_install.php:290
+msgid " by clicking here "
+msgstr ""
+
+#: scd_license_manager_form.php:44
+msgid " days "
+msgstr ""
+
+#: scd_license_manager_form.php:53
+msgid " days."
+msgstr ""
+
+#: index.php:321
+msgid " download and install it here"
+msgstr ""
+
+#: scd_license_manager_form.php:58
+msgid " Please "
+msgstr ""
+
+#: scd_multivendors_renders.php:133
+msgid " Save change"
+msgstr ""
+
+#: scd_free_install.php:129
+msgid " Smart Currency Manager "
+msgstr ""
+
+#: index.php:223 index.php:225 index.php:227 index.php:229 index.php:231
+#: index.php:233 index.php:235 index.php:237
+msgid " to activate or update your license key."
+msgstr ""
+
+#: scd_license_manager_form.php:58
+msgid " to continue to benefit install scm features. "
+msgstr ""
+
+#: scd_license_manager_form.php:58
+msgid " update your license "
+msgstr ""
+
+#: index.php:169
+msgid ". Please wait the page will reload in "
+msgstr ""
+
+#: index.php:169
+msgid ". seconds..."
+msgstr ""
+
+#: index.php:119
+msgid "Activate New License"
+msgstr ""
+
+#: scd_multivendors_renders.php:76
+msgid "Base currency only"
+msgstr ""
+
+#: scd_free_install.php:294
+msgid "Cancel installation"
+msgstr ""
+
+#: scd_wcfm_multivendor.php:330
+msgid "Choose currencies"
+msgstr ""
+
+#: scd_wcfm_multivendor.php:634 scd_wcfm_multivendor.php:635
+#: scd_wcfm_multivendor.php:692
+msgid "Cost"
+msgstr ""
+
+#: scd_wcfm_multivendor.php:690
+msgid "Country default cost if no matching rule"
+msgstr ""
+
+#: scd_multivendors_renders.php:151
+msgid "Currency not saved please try again"
+msgstr ""
+
+#: scd_multivendors_settings.php:39
+msgid "Display product prices in vendor currency"
+msgstr ""
+
+#: index.php:150
+msgid ""
+"ERROR 404. The activation server was not found. Please contact contact us to "
+"correct."
+msgstr ""
+
+#. Author of the plugin
+msgid "GaJeLabs"
+msgstr ""
+
+#: index.php:110 index.php:223 index.php:225 index.php:227 index.php:229
+#: index.php:231 index.php:233 index.php:235 index.php:237
+msgid "here"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://gajelabs.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://gajelabs.com/"
+msgstr ""
+
+#: scd_multivendors_renders.php:162
+msgid "Information saved"
+msgstr ""
+
+#: scd_multivendors_renders.php:149
+msgid "Information saved. Your new custom currency is "
+msgstr ""
+
+#: scd_free_install.php:131
+msgid "Install SCM Free"
+msgstr ""
+
+#: scd_wcfm_multivendor.php:27 scd_wcfm_multivendor.php:178
+msgid "Invalid nonce! Refresh your page and try again."
+msgstr ""
+
+#: includes/admin/scd-wcfm-views-report-sales-by-date.php:35
+msgid "Invalid Vendor"
+msgstr ""
+
+#: includes/admin/scd-wcfm-views-report-sales-by-date.php:60
+msgid "Last 7 Days"
+msgstr ""
+
+#: includes/admin/scd-wcfm-views-report-sales-by-date.php:58
+msgid "Last Month"
+msgstr ""
+
+#: scd_multivendors_settings.php:37
+msgid "License Expiry Date"
+msgstr ""
+
+#: scd_multivendors_settings.php:27
+msgid "LICENSE INFORMATION"
+msgstr ""
+
+#: scd_multivendors_settings.php:36
+msgid "License Key"
+msgstr ""
+
+#: index.php:61
+msgid "LICENSE MANAGER"
+msgstr ""
+
+#: scd_license_manager_form.php:44
+msgid "License validity time left : "
+msgstr ""
+
+#: scd_multivendors_renders.php:164
+msgid "Option not saved please try again"
+msgstr ""
+
+#: scd_wcfm_multivendor.php:688
+msgid "Per unit cost"
+msgstr ""
+
+#: scd_wcfm_multivendor.php:385
+msgid "Price"
+msgstr ""
+
+#: scd_wcfm_multivendor.php:473
+msgid "Price("
+msgstr ""
+
+#: scd_wcfm_multivendor.php:461
+msgid "Regular Price"
+msgstr ""
+
+#: scd_wcfm_multivendor.php:342
+msgid "Regular price"
+msgstr ""
+
+#: includes/admin/scd-wcfm-views-report-sales-by-date.php:14
+msgid "Reports"
+msgstr ""
+
+#: scd_free_install.php:293
+msgid "retry to install scm Free"
+msgstr ""
+
+#: scd_wcfm_multivendor.php:392 scd_wcfm_multivendor.php:467
+msgid "Sale Price"
+msgstr ""
+
+#: scd_wcfm_multivendor.php:358
+msgid "Sale price"
+msgstr ""
+
+#: scd_wcfm_multivendor.php:474
+msgid "Sale price("
+msgstr ""
+
+#: includes/admin/scd-wcfm-views-report-sales-by-date.php:42
+#: includes/admin/scd-wcfm-views-report-sales-by-date.php:47
+msgid "Sales by Vendor"
+msgstr ""
+
+#: scd_free_install.php:58 scd_free_install.php:219
+msgid "SCM &rsaquo; Setup Wizard"
+msgstr ""
+
+#. Name of the plugin
+msgid "SCM - Smart Currency Manager - Premium Variant for WCFM"
+msgstr ""
+
+#: scd_wcfm_multivendor.php:283
+msgid "SCM Currency"
+msgstr ""
+
+#: index.php:321
+msgid ""
+"SCM Multivendors for WCFM require scm-smart-currency-manager before use, "
+"please "
+msgstr ""
+
+#: templates/scd_vertical_flag.php:22 templates/scd_widget.php:22
+msgid "Select a country here..."
+msgstr ""
+
+#: scd_wcfm_multivendor.php:327
+msgid "Select currency"
+msgstr ""
+
+#: scd_multivendors_renders.php:85
+msgid "Select your default currency"
+msgstr ""
+
+#: scd_multivendors_renders.php:79
+msgid "Selected currencies"
+msgstr ""
+
+#: scd_multivendors_renders.php:110
+msgid "Set products price in"
+msgstr ""
+
+#: scd_wcfm_multivendor.php:350
+msgid "Set Regular Price. (e.g. 59.34)"
+msgstr ""
+
+#: scd_wcfm_multivendor.php:366
+msgid "Set Sale Price. (e.g. 59.34)"
+msgstr ""
+
+#: scd_wcfm_multivendor.php:707
+msgid "Shipping title must be required"
+msgstr ""
+
+#: scd_free_install.php:127 scd_free_install.php:288
+msgid "SMART CURRENCY MANAGER"
+msgstr ""
+
+#: index.php:357
+msgid "Smart Currency Manager (SCM) plugin error: "
+msgstr ""
+
+#: index.php:361
+msgid "Smart Currency Manager (SCM) plugin exception: "
+msgstr ""
+
+#: index.php:148
+msgid ""
+"Sorry the server could not activate your license key. Try again later or "
+"contact us."
+msgstr ""
+
+#: index.php:237
+msgid ""
+"The SCM-Multivendors for wcfm license key has not been activated or has "
+"expired, so you will be unable to get automatic updates or support! Click"
+msgstr ""
+
+#: includes/admin/scd-wcfm-views-report-sales-by-date.php:59
+msgid "This Month"
+msgstr ""
+
+#: scd_free_install.php:129
+msgid "This variant need"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This wordpress / woocommerce plugin is an ALL-IN-ONE solution for online "
+"market places owners, sellers, end customers. Multivendors variant"
+msgstr ""
+
+#: scd_free_install.php:129
+msgid "to active."
+msgstr ""
+
+#: includes/admin/scd-wcfm-views-report-sales-by-date.php:57
+msgid "Year"
+msgstr ""
+
+#: index.php:110
+msgid "You can get new license key"
+msgstr ""
+
+#: scd_wcfm_multivendor.php:39 scd_wcfm_multivendor.php:57
+#: scd_wcfm_multivendor.php:75 scd_wcfm_multivendor.php:93
+#: scd_wcfm_multivendor.php:111 scd_wcfm_multivendor.php:129
+#: scd_wcfm_multivendor.php:147 scd_wcfm_multivendor.php:159
+#: scd_wcfm_multivendor.php:190
+msgid "You don&#8217;t have permission to do this."
+msgstr ""
+
+#: index.php:235
+msgid ""
+"You have less than 1 days to enjoy for free SCM Premium for WCFM. Please "
+"activate your license to enjoy and to get automatic updates or support! Click"
+msgstr ""
+
+#: index.php:233
+msgid ""
+"You have less than 2 days to enjoy for free SCM Premium for WCFM. Please "
+"activate your license to enjoy and to get automatic updates or support! Click"
+msgstr ""
+
+#: index.php:231
+msgid ""
+"You have less than 3 days to enjoy for free SCM Premium for WCFM. Please "
+"activate your license to enjoy and to get automatic updates or support! Click"
+msgstr ""
+
+#: index.php:229
+msgid ""
+"You have less than 4 days to enjoy for free SCM Premium for WCFM. Please "
+"activate your license to enjoy and to get automatic updates or support! Click"
+msgstr ""
+
+#: index.php:227
+msgid ""
+"You have less than 5 days to enjoy for free SCM Premium for WCFM. Please "
+"activate your license to enjoy and to get automatic updates or support! Click"
+msgstr ""
+
+#: index.php:225
+msgid ""
+"You have less than 6 days to enjoy for free SCM Premium for WCFM. Please "
+"activate your license to enjoy and to get automatic updates or support! Click"
+msgstr ""
+
+#: index.php:223
+msgid ""
+"You have less than 7 days to enjoy for free SCM Premium for WCFM. Please "
+"activate your license to enjoy and to get automatic updates or support! Click"
+msgstr ""
+
+#: scd_multivendors_renders.php:77
+msgid "Your default currency only"
+msgstr ""
+
+#: scd_free_install.php:290
+msgid ""
+"Your installation was not successful, please check that you have a good "
+"internet connection. You can retry the installation or cancel. Before "
+"canceling the installation you can download the plugin"
+msgstr ""
+
+#: scd_license_manager_form.php:50
+msgid "Your license has expired."
+msgstr ""
+
+#: scd_license_manager_form.php:53
+msgid "Your license will expire in "
+msgstr ""
+
+#: index.php:109
+msgid ""
+"Your SCM License is not activated or has expired. Please activate a new "
+"license to get access to the plugin features and support."
+msgstr ""

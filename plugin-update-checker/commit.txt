@@ -1,0 +1,2 @@
+commit ID: 3f5a340ded47653949cc14c3a821027d9fac5416
+https://github.com/YahnisElsts/plugin-update-checker/tree/3f5a340ded47653949cc14c3a821027d9fac5416
